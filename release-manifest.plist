@@ -6,7 +6,7 @@
     <key>schema_version</key>
     <integer>1</integer>
     <key>published</key>
-    <true/>
+    <false/>
     <key>version</key>
     <string>0.3.1</string>
     <key>min_macos_major</key>
