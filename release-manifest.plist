@@ -6,9 +6,9 @@
     <key>schema_version</key>
     <integer>1</integer>
     <key>published</key>
-    <true/>
+    <false/>
     <key>version</key>
-    <string>0.3.1</string>
+    <string>0.4.0</string>
     <key>min_macos_major</key>
     <integer>14</integer>
     <key>architectures</key>
@@ -18,12 +18,12 @@
     <key>team_id</key>
     <string>C95SUWV9FL</string>
     <key>app_url</key>
-    <string>https://github.com/stephninja028-creator/Now_look_far/releases/download/v0.3.1/Now_look_far-0.3.1-macos-universal.zip</string>
+    <string>https://github.com/stephninja028-creator/Now_look_far/releases/download/v0.4.0/Now_look_far-0.4.0-macos-universal.zip</string>
     <key>app_sha256</key>
-    <string>995dd70a816d43b8e26ad374143a412a35384331aa98c25e06b4b6e7ca59c36a</string>
+    <string>5dd4b3513c75bab7188dbdd26fb528ddcab033d228fb3381d3266f6c89a8b0af</string>
     <key>skill_url</key>
-    <string>https://github.com/stephninja028-creator/Now_look_far/releases/download/v0.3.1/eye-break-skill-0.3.1.zip</string>
+    <string>https://github.com/stephninja028-creator/Now_look_far/releases/download/v0.4.0/eye-break-skill-0.4.0.zip</string>
     <key>skill_sha256</key>
-    <string>64a371024f64153db79a770f543f14bd9b285c873e8c701eca7d0e3b0b6d032f</string>
+    <string>3f80950fc2ff5e509a7d4c3d0c821ce508b04ed252ed560a40aa809b853913b3</string>
 </dict>
 </plist>
