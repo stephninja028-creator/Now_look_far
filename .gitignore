@@ -1,0 +1,11 @@
+.DS_Store
+*.zip
+*.dmg
+*.pkg
+release-artifacts/
+dist/
+
+# Local project-continuity files are not part of the public distribution.
+PROJECT.md
+PROGRESS.md
+docs/progress/

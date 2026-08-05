@@ -1,0 +1,4 @@
+interface:
+  display_name: "护眼小宠物"
+  short_description: "Control local Now Look Far eye-break reminders"
+  default_prompt: "Use $eye-break to check or change my eye-break reminder settings."
